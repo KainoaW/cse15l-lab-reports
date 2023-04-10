@@ -7,9 +7,12 @@ Go to the Visual Studios website using the link https://code.visualstudio.com/. 
 
 **2. Remotely Connect**
 
-To remotely connect to the server use the ssh command. Type `ssh cs15lsp23zz@ieng6.ucsd.edu` in the terminal and substitute `zz` for the letters associated with your personal account. Answer "yes" to the printed message and enter the password to your account (**The letters typed will not appear for security reasons but are still being inputted**). The interaction should look like the below image.
-![Image](
+To remotely connect to the server use the ssh command. Type `ssh cs15lsp23zz@ieng6.ucsd.edu` in the terminal and substitute `zz` for the letters associated with your personal account. Answer "yes" to the printed message (When connecting for the first time) and enter the password to your account (**The letters typed will not appear for security reasons but are still being inputted**). The interaction should look like the below image.
+![Image](remoteconnect.png)
 
 
 
 **3. Try Some Commands**
+
+Commands can be run in the terminal to access different paths and directories. Some examples commands to try are `cd`, `ls`, and `pwd`. Below is an example:
+
