@@ -17,7 +17,7 @@ To remotely connect to the server use the ssh command. Type `ssh cs15lsp23zz@ien
 
 **3. Try Some Commands**
 
-Commands can be run in the terminal to access different paths and directories. Some examples commands to try are `cd`, `ls`, and `pwd`. Below are a few examaple commands:
+Commands can be run in the terminal to access different paths and directories. Some examples commands to try are `cd`, `ls`, and `pwd`. Below are a few example commands:
 
 The `ls` command lists the files and folders of the given path. `ls -a` will also list the hidden files in the path.
 ![Image](commandtest.png)
