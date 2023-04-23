@@ -25,4 +25,5 @@ The `ls` command lists the files and folders of the given path. `ls -a` will als
 The `cd` command changes the current working directory to the given path (The `..` removes one directory from the current path)
 ![Image](commandcd.png)
 
-The `cat <path>` command prints the contents of the given path
+The `cd ~/` command adds another directory to the path
+![Image](commandcd2.png)
