@@ -5,6 +5,9 @@
 Go to the Visual Studios website using the link [https://code.visualstudio.com](https://code.visualstudio.com/). Download the version of Visual Studios that corresponds to your operationing system (macOS or Windows) as seen in the below image.
 ![Image](vsdownload.png)
 
+When Visual Studios is opened it should look like the below image.
+![Image](vsdownload.png)
+
 **2. Remotely Connect**
 
 To remotely connect to the server use the ssh command. Type `ssh cs15lsp23zz@ieng6.ucsd.edu` in the terminal and substitute `zz` for the letters associated with your personal account. Answer "yes" to the printed message (When connecting for the first time) and enter the password to your account (**The letters typed will not appear for security reasons but are still being inputted**). The interaction should look like the below image.
