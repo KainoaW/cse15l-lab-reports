@@ -1,6 +1,7 @@
 **Lab 2**
 
-**Part 1:**
+**Part 1:**  
+
 String Server Code:
   ![Image](stringservercode.png)
   
@@ -13,8 +14,8 @@ String Server Code:
   Failed JUnit Test:
   ![Image](junitbug.png)
   
-  Passed JUnit Test:
-  ![Image](junitpass.png)
+  Non-failure JUnit Test:  
+  ![Image](junitcode.png)
   
   Code Before Fix:
   ```
