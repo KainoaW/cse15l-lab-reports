@@ -11,10 +11,10 @@ String Server Code:
 **Part 2:**
   
   Failed JUnit Test:
-  ![Image](sstest2.png)
+  ![Image](junitbug.png)
   
   Passed JUnit Test:
-  ![Image](sstest2.png)
+  ![Image](junitpass.png)
   
   Code Before Fix:
   ```
