@@ -7,7 +7,7 @@ String Server Code:
   ![Image](servercode.png)
     
   Run 1:  
-  When the request `/add-message?s=FirstTry` is inputted the handleRequest and main method are called. The handleRequest method has the parameter `url` which is the string inputted in the search bar and begins with an empty string called `result`. The main method has a parameter `args` where the first element is the number of the localhost server. The only value that changes is the `result` string in the handleRequest method. It starts as an empty string and concatenates the `FirstTry` and `\n` to the string (The "\n" signifies a new line).
+  When the request `/add-message?s=FirstTry` is inputted the handleRequest and main method are called. The handleRequest method has the parameter `url` which is the string inputted in the search bar and begins with an empty string called `result`. The main method has a parameter `args` where the first element is the number of the localhost server. The only value that changes is the `result` string in the handleRequest method. It starts as an empty string and concatenates the `FirstTry` and `\n` to the string (The "\n" signifies a new line).  
   ![Image](sstest1.png)  
   
   
