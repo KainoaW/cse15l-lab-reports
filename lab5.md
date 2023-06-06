@@ -22,6 +22,7 @@ I had just opened the code and ran the `bash grade.sh <git repository>` command.
 ![Image](lab5fix.png)
 
 3. To setup this I downloaded the correct grade.sh and TestListExamples files. I then used the `bash grade.sh <git repository>` command to test the grader on an already broken ListExamples file. To fix the bug I switched the `<` to a `>`. This redirected the output as opposed to the input and creates the junit-output.txt file.
+
 **Part 2:**
 
 During labs I was able to get a hands on experience with the topics that we learned in lecture. The biggest aspect of this was learning how to engage with files without using Visual Studios. I did not think it was possible to run these files, but with vim and the terminal it is. Labs gave me the opportunity to practice vim and learn more of the applications and customization of it.
